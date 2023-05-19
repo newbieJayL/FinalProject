@@ -1,2 +1,2 @@
-
-# test
+x = input()
+print('x:', x)
